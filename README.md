@@ -2,7 +2,7 @@
 
 ## About
 
-Midjourney Clone
+Midjourney Clone <br/>
 Utilizing OpenAI's DALL-E, users are capable of becoming an artist! Provide a prompt or utilize the application's auto-generating randomizer for some ideas. Share your inspirations with the community!
 
 ## Demo
